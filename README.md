@@ -1,2 +1,3 @@
 # Data_Science_Project1
-All Data Science project from my scolarship.
+
+Training about Tensorflow /Google Cloud Storage / Big query / Data Visualization.
